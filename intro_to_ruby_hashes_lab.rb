@@ -11,7 +11,6 @@ def monopoly
 	  railroads: {
 	    }
 	  }
-	}
 
 end
 
